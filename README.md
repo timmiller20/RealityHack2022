@@ -1,2 +1,2 @@
 # RealityHack2022
- Sample timestamped movement data 
+ MIT XR Hackathon, March 2022 
